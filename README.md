@@ -11,3 +11,4 @@ val engineer: android_development {
     }
 }
 ```
+![](https://komarev.com/ghpvc/?username=michaelbel)
