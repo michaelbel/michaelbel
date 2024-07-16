@@ -7,12 +7,12 @@
 </p>
 
 <div align="center">
-    <img src="assets/mario.gif" width="600"> <!-- source: https://github.com/anmol-baranwal/cool-gifs-for-github -->
+    <img src="assets/mario.gif" width="500"> <!-- source: https://github.com/anmol-baranwal/cool-gifs-for-github -->
 </div>
 
-<h1 align="center">
+<h2 align="center">
     Скиллы
-</h1>
+</h2>
 
 <div align="center">
 
@@ -21,6 +21,7 @@
 [![Java](https://img.shields.io/badge/Java-DB380E?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://d.android.com/studio/releases/gradle-plugin)
 [![Compose](https://img.shields.io/badge/compose-blue.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://d.android.com/jetpack/compose)
+</br>
 [![Material3](https://img.shields.io/badge/Material3-004A76?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICA8dGl0bGU+bWF0ZXJpYWxfZGVzaWduPC90aXRsZT4KICA8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiLz4KICA8cGF0aCBkPSJNMjEsMTJhOSw5LDAsMCwwLTItNS42MlYxNy42M0E4Ljc4LDguNzgsMCwwLDAsMjEsMTJtLTMuMzcsN0g2LjM4YTkuNSw5LjUsMCwwLDAsMi42NywxLjQxQTguOTEsOC45MSwwLDAsMCwxMiwyMSw4Ljg2LDguODYsMCwwLDAsMTUsMjAuNDEsOS43Miw5LjcyLDAsMCwwLDE3LjYzLDE5TTExLDE3LDcsOXY4aDRtNi04LTQsOGg0VjltLTUsNS41M0wxNS43NSw3SDguMjVMMTIsMTQuNTNNMTcuNjMsNUE4LjkxLDguOTEsMCwwLDAsNi4zOCw1SDE3LjYzTTUsMTcuNjNWNi4zOEE5LDksMCwwLDAsMywxMmE4Ljc4LDguNzgsMCwwLDAsMiw1LjYzTTIzLDEyYTEwLjU3LDEwLjU3LDAsMCwxLTMuMjIsNy43OEExMC41NywxMC41NywwLDAsMSwxMiwyM2ExMC41OSwxMC41OSwwLDAsMS03Ljc4LTMuMjJBMTAuNTcsMTAuNTcsMCwwLDEsMSwxMiwxMC41OSwxMC41OSwwLDAsMSw0LjIyLDQuMjIsMTAuNTksMTAuNTksMCwwLDEsMTIsMWExMC41NywxMC41NywwLDAsMSw3Ljc4LDMuMjJBMTAuNTksMTAuNTksMCwwLDEsMjMsMTJaIiBmaWxsPSIjZmZmZmZmIi8+Cjwvc3ZnPg==&logoColor=white)](https://m3.material.io)
 [![Firebase](https://img.shields.io/badge/Firebase-E5B82C?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
@@ -28,9 +29,9 @@
   
 </div>
 
-<h1 align="center">
+<h2 align="center">
     Контакты
-</h1>
+</h2>
 
 <div align="center">
 
@@ -42,9 +43,9 @@
   
 </div>
 
-<h1 align="center">
+<h2 align="center">
     Новости
-</h1>
+</h2>
 
 <div align="center">
     Подписывайся на мой базированный telegram-канал про Android-разработку:
@@ -53,7 +54,7 @@
 </br>
 
 <div align="center">
-
+    
 [![](https://img.shields.io/badge/Подписаться-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QBkL98rFVfs0ZGNi)
 
 </div>
