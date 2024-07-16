@@ -1,8 +1,21 @@
-# Привет! Меня зовут Михаил Белый
+<h1 align="center">
+    Привет! <img src="assets/hello.gif" width="30px" /> Меня зовут Михаил Белый
+</h1>
 
-Я занимаюсь Android-разработкой с 2015 года. Пишу на котлине, не забыл джаву. Сейчас изучаю мультиплатформу. Меня вдохновляют проекты, в которых следят за дизайном и стремятся к улучшению пользовательского опыта.
+<p align="center">
+    Я занимаюсь Android-разработкой с 2015 года. Пишу на котлине, не забыл джаву. Сейчас изучаю мультиплатформу. Меня вдохновляют проекты, в которых следят за дизайном и стремятся к улучшению пользовательского опыта.
+</p>
 
-## Скиллы
+<div align="center">
+    <img src="assets/mario.gif" width="600"> <!-- source: https://github.com/anmol-baranwal/cool-gifs-for-github -->
+</div>
+
+<h1 align="center">
+    Скиллы
+</h1>
+
+<div align="center">
+
 [![Android](https://img.shields.io/badge/Android%20SDK-50AE55?style=for-the-badge&logo=android&logoColor=F6F6F6)](https://d.android.com)
 [![Kotlin](https://img.shields.io/badge/kotlin-7f52ff.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://d.android.com/kotlin)
 [![Java](https://img.shields.io/badge/Java-DB380E?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
@@ -12,13 +25,35 @@
 [![Firebase](https://img.shields.io/badge/Firebase-E5B82C?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+  
+</div>
 
-## Контакты
+<h1 align="center">
+    Контакты
+</h1>
+
+<div align="center">
+
 [![](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michaelbel)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-bel)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelvel24865@gmail.com)
 [![](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/michael_bel)
 [![](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/michael_bely)
+  
+</div>
 
-## Новости
-Подписывайся на мой базированный [telegram-канал](https://t.me/+QBkL98rFVfs0ZGNi) про Android-разработку.
+<h1 align="center">
+    Новости
+</h1>
+
+<div align="center">
+    Подписывайся на мой базированный telegram-канал про Android-разработку:
+</div>
+
+</br>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/Подписаться-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QBkL98rFVfs0ZGNi)
+
+</div>
