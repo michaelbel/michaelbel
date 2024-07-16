@@ -21,4 +21,4 @@
 [![](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/michael_bely)
 
 ## Новости
-Подписывайся на мой базированный [telegram-канал](https://t.me/foundout) про Android-разработку.
+Подписывайся на мой базированный [telegram-канал](https://t.me/+QBkL98rFVfs0ZGNi) про Android-разработку.
