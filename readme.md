@@ -48,7 +48,7 @@
 </h2>
 
 <div align="center">
-    Подписывайся на мой базированный telegram-канал про Android-разработку:
+    Подписывайся на мой базированный telegram-канал про Android-разработку: 
 </div>
 
 </br>
@@ -56,5 +56,17 @@
 <div align="center">
     
 [![](https://img.shields.io/badge/Подписаться-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QBkL98rFVfs0ZGNi)
+
+</div>
+
+<div align="center">
+    Заходи потыкать карьерный роадмап для подготовки к техническому собесу:
+</div>
+
+</br>
+
+<div align="center">
+    
+[![](https://img.shields.io/badge/Открыть_Roadmap-202020?style=for-the-badge&logo=notion&logoColor=white)](https://michaelbel.notion.site/ANDROID-CAREER-689a0c8ce744419f8f53446e5e68e8f1)
 
 </div>
