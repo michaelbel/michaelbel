@@ -70,3 +70,15 @@
 [![](https://img.shields.io/badge/Открыть_Roadmap-202020?style=for-the-badge&logo=notion&logoColor=white)](https://michaelbel.notion.site/ANDROID-CAREER-689a0c8ce744419f8f53446e5e68e8f1)
 
 </div>
+
+<div align="center">
+    Ставь звезду опенсорсному мультиплатформенному пет-проекту:
+</div>
+
+</br>
+
+<div align="center">
+    
+[![](https://img.shields.io/badge/Приложение_Movies-FF5252?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE4IDRMMjAgN0gxN0wxNSA0SDEzTDE1IDdIMTJMMTAgNEg4TDEwIDdIN0w1IDRINEMyLjkgNCAyIDQuOSAyIDZMMiAxOEMyIDE5LjEgMi45IDIwIDQgMjBIMjBDMjEuMSAyMCAyMiAxOS4xIDIyIDE4VjRIMThNMTEuMjUgMTUuMjVMMTAgMThMOC43NSAxNS4yNUw2IDE0TDguNzUgMTIuNzVMMTAgMTBMMTEuMjUgMTIuNzVMMTQgMTRMMTEuMjUgMTUuMjVNMTYuOTQgMTEuOTRMMTYgMTRMMTUuMDYgMTEuOTRMMTMgMTFMMTUuMDYgMTAuMDZMMTYgOEwxNi45NCAxMC4wNkwxOSAxMUwxNi45NCAxMS45NFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=&logoColor=white)](https://github.com/michaelbel/movies)
+
+</div>
