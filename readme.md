@@ -1,6 +1,6 @@
-<h1 align="center">
-    Привет! <img src="assets/hello.gif" width="30px" /> Меня зовут Михаил Белый
-</h1>
+<div align="center">
+    <h1>Привет! <img src="assets/hello.gif" width="30px" /> Меня зовут Михаил Белый</h1>
+</div>
 
 <p align="center">
     Я занимаюсь Android-разработкой с 2015 года. Пишу на котлине, не забыл джаву. Сейчас изучаю мультиплатформу. Меня вдохновляют проекты, в которых следят за дизайном и стремятся к улучшению пользовательского опыта.
@@ -49,7 +49,6 @@
     Новости
 </h2>
 
-<!--
 <div align="center">
     Подписывайся на мой базированный telegram-канал про Android-разработку: 
 </div>
@@ -61,7 +60,6 @@
 [![](https://img.shields.io/badge/Подписаться-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QBkL98rFVfs0ZGNi)
 
 </div>
--->
 
 <div align="center">
     Заходи потыкать карьерный роадмап для подготовки к техническому собесу:
