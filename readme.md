@@ -27,7 +27,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-E5B82C?style=for-the-badge&logo=Firebase&logoColor=333333)](https://firebase.google.com)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
-  
+
 </div>
 
 <h2 align="center">
@@ -42,7 +42,7 @@
 [![](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/michael_bel)
 [![](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/michael_bely)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@michaelbely)
-  
+
 </div>
 
 <h2 align="center">
@@ -56,19 +56,19 @@
 </br>
 
 <div align="center">
-    
+
 [![](https://img.shields.io/badge/Подписаться-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QBkL98rFVfs0ZGNi)
 
 </div>
 
 <div align="center">
-    Заходи потыкать карьерный роадмап для подготовки к техническому собесу:
+    Заходи потыкать карьерный роадмап для подготовки к техсобесу:
 </div>
 
 </br>
 
 <div align="center">
-    
+
 [![](https://img.shields.io/badge/Открыть_Roadmap-202020?style=for-the-badge&logo=notion&logoColor=white)](https://michaelbel.notion.site/ANDROID-CAREER-689a0c8ce744419f8f53446e5e68e8f1)
 
 </div>
@@ -80,8 +80,8 @@
 </br>
 
 <div align="center">
-    
-[![](https://img.shields.io/badge/Приложение_Movies-FF5252?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE4IDRMMjAgN0gxN0wxNSA0SDEzTDE1IDdIMTJMMTAgNEg4TDEwIDdIN0w1IDRINEMyLjkgNCAyIDQuOSAyIDZMMiAxOEMyIDE5LjEgMi45IDIwIDQgMjBIMjBDMjEuMSAyMCAyMiAxOS4xIDIyIDE4VjRIMThNMTEuMjUgMTUuMjVMMTAgMThMOC43NSAxNS4yNUw2IDE0TDguNzUgMTIuNzVMMTAgMTBMMTEuMjUgMTIuNzVMMTQgMTRMMTEuMjUgMTUuMjVNMTYuOTQgMTEuOTRMMTYgMTRMMTUuMDYgMTEuOTRMMTMgMTFMMTUuMDYgMTAuMDZMMTYgOEwxNi45NCAxMC4wNkwxOSAxMUwxNi45NCAxMS45NFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=&logoColor=white)](https://github.com/michaelbel/movies)
+
+[![](https://img.shields.io/badge/Приложение_Movies-E57373?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE4IDRMMjAgN0gxN0wxNSA0SDEzTDE1IDdIMTJMMTAgNEg4TDEwIDdIN0w1IDRINEMyLjkgNCAyIDQuOSAyIDZMMiAxOEMyIDE5LjEgMi45IDIwIDQgMjBIMjBDMjEuMSAyMCAyMiAxOS4xIDIyIDE4VjRIMThNMTEuMjUgMTUuMjVMMTAgMThMOC43NSAxNS4yNUw2IDE0TDguNzUgMTIuNzVMMTAgMTBMMTEuMjUgMTIuNzVMMTQgMTRMMTEuMjUgMTUuMjVNMTYuOTQgMTEuOTRMMTYgMTRMMTUuMDYgMTEuOTRMMTMgMTFMMTUuMDYgMTAuMDZMMTYgOEwxNi45NCAxMC4wNkwxOSAxMUwxNi45NCAxMS45NFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=)](https://github.com/michaelbel/movies)
 
 </div>
 
@@ -92,8 +92,8 @@
 </br>
 
 <div align="center">
-    
-[![](https://img.shields.io/badge/Mobile_Dev_Emoji-2E7D32?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUuNSwyQzMuNTYsMiAyLDMuNTYgMiw1LjVWMTguNUMyLDIwLjQ0IDMuNTYsMjIgNS41LDIySDE2TDIyLDE2VjUuNUMyMiwzLjU2IDIwLjQ0LDIgMTguNSwySDUuNU01Ljc1LDRIMTguMjVBMS43NSwxLjc1IDAgMCwxIDIwLDUuNzVWMTVIMTguNUMxNi41NiwxNSAxNSwxNi41NiAxNSwxOC41VjIwSDUuNzVBMS43NSwxLjc1IDAgMCwxIDQsMTguMjVWNS43NUExLjc1LDEuNzUgMCAwLDEgNS43NSw0TTE0LjQ0LDYuNzdDMTQuMjgsNi43NyAxNC4xMiw2Ljc5IDEzLjk3LDYuODNDMTMuMDMsNy4wOSAxMi41LDguMDUgMTIuNzQsOUMxMi43OSw5LjE1IDEyLjg2LDkuMyAxMi45NSw5LjQ0TDE2LjE4LDguNTZDMTYuMTgsOC4zOSAxNi4xNiw4LjIyIDE2LjEyLDguMDVDMTUuOTEsNy4zIDE1LjIyLDYuNzcgMTQuNDQsNi43N004LjE3LDguNUM4LDguNSA3Ljg1LDguNSA3LjcsOC41NUM2Ljc3LDguODEgNi4yMiw5Ljc3IDYuNDcsMTAuN0M2LjUsMTAuODYgNi41OSwxMSA2LjY4LDExLjE2TDkuOTEsMTAuMjhDOS45MSwxMC4xMSA5Ljg5LDkuOTQgOS44NSw5Ljc4QzkuNjQsOSA4Ljk1LDguNSA4LjE3LDguNU0xNi43MiwxMS4yNkw3LjU5LDEzLjc3QzguOTEsMTUuMyAxMSwxNS45NCAxMi45NSwxNS40MUMxNC45LDE0Ljg3IDE2LjM2LDEzLjI1IDE2LjcyLDExLjI2WiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/michaelbel/mobiledevemoji)
+
+[![](https://img.shields.io/badge/Mobile_Dev_Emoji-43A047?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUuNSwyQzMuNTYsMiAyLDMuNTYgMiw1LjVWMTguNUMyLDIwLjQ0IDMuNTYsMjIgNS41LDIySDE2TDIyLDE2VjUuNUMyMiwzLjU2IDIwLjQ0LDIgMTguNSwySDUuNU01Ljc1LDRIMTguMjVBMS43NSwxLjc1IDAgMCwxIDIwLDUuNzVWMTVIMTguNUMxNi41NiwxNSAxNSwxNi41NiAxNSwxOC41VjIwSDUuNzVBMS43NSwxLjc1IDAgMCwxIDQsMTguMjVWNS43NUExLjc1LDEuNzUgMCAwLDEgNS43NSw0TTE0LjQ0LDYuNzdDMTQuMjgsNi43NyAxNC4xMiw2Ljc5IDEzLjk3LDYuODNDMTMuMDMsNy4wOSAxMi41LDguMDUgMTIuNzQsOUMxMi43OSw5LjE1IDEyLjg2LDkuMyAxMi45NSw5LjQ0TDE2LjE4LDguNTZDMTYuMTgsOC4zOSAxNi4xNiw4LjIyIDE2LjEyLDguMDVDMTUuOTEsNy4zIDE1LjIyLDYuNzcgMTQuNDQsNi43N004LjE3LDguNUM4LDguNSA3Ljg1LDguNSA3LjcsOC41NUM2Ljc3LDguODEgNi4yMiw5Ljc3IDYuNDcsMTAuN0M2LjUsMTAuODYgNi41OSwxMSA2LjY4LDExLjE2TDkuOTEsMTAuMjhDOS45MSwxMC4xMSA5Ljg5LDkuOTQgOS44NSw5Ljc4QzkuNjQsOSA4Ljk1LDguNSA4LjE3LDguNU0xNi43MiwxMS4yNkw3LjU5LDEzLjc3QzguOTEsMTUuMyAxMSwxNS45NCAxMi45NSwxNS40MUMxNC45LDE0Ljg3IDE2LjM2LDEzLjI1IDE2LjcyLDExLjI2WiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/michaelbel/mobiledevemoji)
 
 </div>
 
