@@ -118,6 +118,6 @@
 
 <div align="center">
 
-![](https://leetcard.jacoblin.cool/michaelbel?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/michaelbel?theme=dark&font=Piazzolla&ext=heatmap)
 
 </div>
