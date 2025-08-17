@@ -113,6 +113,16 @@
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/breakout-light.svg">
+  <img alt="Breakout Game" src="assets/breakout-light.svg">
+</picture>
+
+</div>
+
 <h2 align="center">
     Статистика LeetCode
 </h2>
