@@ -113,6 +113,10 @@
 
 </div>
 
+<h2 align="center">
+    Статистика GitHub
+</h2>
+
 <div align="center">
 
 <picture>
@@ -120,6 +124,8 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/breakout-light.svg">
   <img alt="Breakout Game" src="assets/breakout-light.svg">
 </picture>
+
+<!-- source: https://github.com/cyprieng/github-breakout -->
 
 </div>
 
