@@ -100,7 +100,7 @@
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=michaelbel&repo=mobiledevemoji&hide_border=true&theme=github_dark_dimmed&border_radius=8)](https://github.com/michaelbel/mobiledevemoji)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=michaelbel&repo=MobileDevEmoji&hide_border=true&theme=github_dark_dimmed&border_radius=8)](https://github.com/michaelbel/MobileDevEmoji)
 
 </div>
 
