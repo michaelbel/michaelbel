@@ -11,15 +11,13 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: generate svg
-        uses: cyprieng/github-breakout@v1.0.0
+        uses: cyprieng/github-breakout@v1.2.4
         with:
           github_username: ${{ github.repository_owner }}
 
